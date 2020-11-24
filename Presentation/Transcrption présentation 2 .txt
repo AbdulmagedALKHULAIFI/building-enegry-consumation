@@ -1,0 +1,26 @@
+Bonjour, 
+
+Je vais vous présenter projet 2 sur l'anaylse des données de systèmes éducatifs, qui m'a occupé pendant 1 mois et demi, ce projet est encadré par monsieur Ahmed BAGUERI
+
+Sommaire:
+
+le déroulé de la présentation est 4 points, le 1er point sera de vous présenter la problèmatique 
+et le jeu de données qui ont servis à l'étude de ce projet , 2ème point est, je vais 
+parcourir  l'ensemble des indicateurs que j'avais retenu pour faire cet études à travers des 
+analyses exploiratoire , le 3ème point sera de vous proposer une liste de pays dans laquelle entreprise 
+peut travailler en premier et à la fin, je vais finir par une conclusion sur l'étude.
+
+
+Parite 1: 
+
+D'abord, commençons par la problèmatique et la présentation de données, d'abord un rappel de 
+la problèmatique, Academy est une startup qui travaille dans la formation  distance, dont le projet 
+est aidé Academy dans son expansion à l'international.
+
+Il est important de savoir que le marche d'e-learning représente dans le monde 190 billion de dollar avec une croissance
+annuelle de 11%.
+
+Concenrant la problèmatique, il est important pour nous de mettre en avant le potentiel de chaque pays
+et evaluer son évolution, ainsi de faire une priorisation de l'ensemble de ces pays là.
+
+Afin, pour pouvoir y arriver, les missions qui me sont attribué sont : est de valider la qualité de données
