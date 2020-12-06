@@ -1,0 +1,5 @@
+
+- fliter par indicateur
+- récupérer les lignes par pays ou par region
+- récupérer les colonnes qui nous intéressent ( pays/regions et les années)
+- supprimer/drop les années qui contient que des val
